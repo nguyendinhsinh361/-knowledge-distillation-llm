@@ -1,0 +1,8 @@
+conda create -n knowledge-distillation-llm python=3.11 -y
+conda activate knowledge-distillation-llm
+conda deactivate
+conda env remove --name knowledge-distillation-llm
+/opt/anaconda3/envs/knowledge-distillation-llm/bin/python
+
+ipconfig getifaddr en0
+git rm -r --cached .

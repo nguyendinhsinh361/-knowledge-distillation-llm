@@ -1,0 +1,13 @@
+torch 
+torchvision 
+torchaudio
+transformers 
+datasets 
+accelerate
+sentencepiece 
+protobuf
+wandb
+tqdm 
+numpy 
+pandas 
+matplotlib

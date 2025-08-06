@@ -1,0 +1,4 @@
+1. How to use Kimi-K2 for free: https://medium.com/data-science-in-your-pocket/how-to-use-kimi-k2-for-free-b403d4f96892
+2. How Rewriting Training Data Improved Kimi K2's Performance: https://www.dbreunig.com/2025/07/27/kimi-applies-rephrasing-to-pre-training-data.html
+3. How Kimi-K2 is Trained: https://medium.com/data-science-in-your-pocket/how-kimi-k2-is-trained-115b326a93a1
+4. Kimi K2: The Trillion-Parameter Open-Weight LLM: https://medium.com/@leucopsis/kimi-k2-the-trillion-parameter-open-weight-llm-9a656eb68cc5
